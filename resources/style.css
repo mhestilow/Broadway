@@ -9,12 +9,30 @@ h1 {
   color: white;
 }
 
-.hyperlink {
-  font-size: 18px;
-  color: white;
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h1 {
+  font size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
 
 .main-banner {
     background-size: cover;
     background-image: url("./images/the-flatiron-building.png");
+}
+
+.hyperlink {
+  font-size: 18px;
+  color: white;
+}
+
+.contact-info {
+  color: white;
 }
